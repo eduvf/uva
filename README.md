@@ -52,7 +52,7 @@ follow Markdown syntax, but have to be on their own line
 ### example
 
 ```
-[eduvf](eduvf.com)
+[eduvf](https://eduvf.com)
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b3/Grapes-3550742_960_720.jpg)
 ```
 
